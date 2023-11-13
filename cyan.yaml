@@ -1,0 +1,10 @@
+username: kirinnee
+name: py-template-example
+description: Python template xample
+project: https://google.com
+source: https://google.com
+email: kirinnee97@gmail.com
+tags: []
+readme: cyan/README.MD
+processors: ["kirinnee/dotnet-handlebar"]
+plugins: []
