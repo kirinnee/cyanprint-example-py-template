@@ -12,7 +12,7 @@ def validate(v):
             return "Age needs to be larger than 19"
         if n > 150:
             return "Age needs to be less than 150"
-        return ""
+        return None
     except ValueError:
         return "Please enter a number"
 
