@@ -1,8 +1,8 @@
 username: kirinnee
 name: py-template-example
-description: Python template xample
-project: https://google.com
-source: https://google.com
+description: Python Template example
+project: https://github.com/kirinnee/cyanprint-example-py-template
+source: https://github.com/kirinnee/cyanprint-example-py-template
 email: kirinnee97@gmail.com
 tags: []
 readme: cyan/README.MD

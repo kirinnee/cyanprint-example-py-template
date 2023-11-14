@@ -32,7 +32,7 @@ async def template(i: IInquirer, d: IDeterminism) -> Cyan:
                     CyanGlob(
                         root=".",
                         glob="**/*.*",
-                        exclude=["scripts"],
+                        exclude=[ "scripts", ".github", "cyan.yaml" ],
                         type=GlobType.Template
                     ),
                 ],
